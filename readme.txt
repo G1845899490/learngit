@@ -1,1 +1,2 @@
-现在，你来到了readme.txt
+Git is a distributed version control system.
+Git is free software.
