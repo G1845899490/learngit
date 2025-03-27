@@ -21,5 +21,5 @@ deploy_key_rsa
 *.class
 
 # 不排除.gitignore和App.class:
-!.gitignore
+# !.gitignore
 !App.class
